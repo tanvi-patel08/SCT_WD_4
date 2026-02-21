@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 Project Showcase: Doodle Do – A Simple & Smart Task Manager
 
-# Run and deploy your AI Studio app
+Excited to share a demo of Doodle Do, a clean and intuitive task management web application built using React.
 
-This contains everything you need to run your app locally.
+This project focuses on simplicity, usability, and performance — allowing users to quickly add, manage, and organize daily tasks with a distraction-free interface.
 
-View your app in AI Studio: https://ai.studio/apps/327825c5-101d-411c-9d04-7588135ec9a2
+🔹 Key Highlights:
 
-## Run Locally
+Responsive and minimal UI
+Fast task creation and updates
+Smooth user experience
+Built with modern React architecture
 
-**Prerequisites:**  Node.js
+🛠 Tech Stack:-
+
+Frontend:
+React.js
+Vite
+TypeScript
+HTML5
+CSS3
+
+Version Control & Deployment:
+Git
+GitHub
+
+Development Tools:
+VS Code
+
+#ReactJS #WebDevelopment #FrontendDeveloper #JavaScript #PortfolioProject #LearningInPublic
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://github.com/user-attachments/assets/1e60b80d-327a-4819-aa06-b289b645507a
+
